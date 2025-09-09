@@ -1,1 +1,1 @@
-# Teor-a-de-la-informaci-n
+# Gustavo Ivan Meraz Sanchez
