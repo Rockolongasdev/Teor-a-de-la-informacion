@@ -1,4 +1,72 @@
 # Gustavo Ivan Meraz Sanchez
+# 🕵️ Sherlock Web - Herramienta SOCMINT
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![Next.js](https://img.shields.io/badge/next.js-14.0-black.svg)
+
+**Proyecto:** Tarea #996 - Construcción de Herramienta OSINT/SOCMINT  
+**Semestre:** Otoño 2025  
+**Herramienta Base:** [Sherlock Project](https://github.com/sherlock-project/sherlock)
+
+---
+
+## 📋 Descripción del Proyecto
+
+**Sherlock Web** es una interfaz web moderna para la herramienta CLI [Sherlock](https://github.com/sherlock-project/sherlock), que permite buscar usernames en más de 400 redes sociales y plataformas online. Este proyecto convierte una herramienta de línea de comandos en una aplicación web accesible para investigaciones SOCMINT (Social Media Intelligence).
+
+### 🎯 Objetivos
+
+- ✅ Democratizar el acceso a herramientas OSINT profesionales
+- ✅ Facilitar investigaciones de presencia digital en redes sociales
+- ✅ Proporcionar interfaz intuitiva sin requerir conocimientos técnicos
+- ✅ Implementar consideraciones éticas y legales en el diseño
+
+---
+
+## 🔗 Relación con la Tarea #996
+
+### Cumplimiento de Requisitos
+
+| Requisito | Implementación |
+|-----------|----------------|
+| **Herramienta base de R00M101** | ✅ Sherlock Project (listado en https://r00m101.com/tools) |
+| **Categoría OSINT** | ✅ SOCMINT - Social Media Intelligence |
+| **Conversión CLI → Web** | ✅ Interfaz web completa para Sherlock CLI |
+| **Valor agregado** | ✅ UI moderna, filtros, exportación CSV, múltiples usuarios |
+
+### Fuentes Oficiales
+
+- **R00M101 Tools**: https://r00m101.com/tools (Username OSINT)
+- **Sherlock GitHub**: https://github.com/sherlock-project/sherlock
+- **Bellingcat Toolkit**: [Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/)
+
+---
+
+## ✨ Características
+
+### Funcionalidad Principal
+
+- 🔍 **Búsqueda de usernames**: 1-3 usuarios simultáneos
+- 📊 **Tabla interactiva**: Visualización clara de resultados
+- 🎯 **Filtrado inteligente**: Opción "Solo mostrar encontrados"
+- 📥 **Exportación CSV**: Descarga de resultados para análisis
+- ⚡ **API REST**: Backend escalable con FastAPI
+- 🎨 **UI moderna**: Diseño responsive con Tailwind CSS
+
+### Plataformas Soportadas (20+ incluyendo)
+
+- GitHub, Twitter/X, Instagram, Reddit
+- LinkedIn, YouTube, TikTok, Facebook
+- Telegram, Medium, Twitch, Pinterest
+- Tumblr, Flickr, SoundCloud, Spotify
+- DeviantArt, Behance, Stack Overflow
+
+---
+
+## 🏗️ Arquitectura Técnica
+
+### Stack Tecnológico
 # Prueba de Selenium para Obtener el Precio de Bitcoin de Binance
 
 ## ¿Qué es Selenium?
