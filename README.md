@@ -1,4 +1,4 @@
-# Gustavo Ivan Meraz Sanchez
+#  Gustavo Iván Meraz Sánchez, David Emmanuel Jauregui, Sofía de la Noval
 # 🕵️ Sherlock Web - Herramienta SOCMINT
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
