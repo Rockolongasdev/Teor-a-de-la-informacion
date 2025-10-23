@@ -8,6 +8,7 @@
 **Proyecto:** Tarea #996 - Construcción de Herramienta OSINT/SOCMINT  
 **Semestre:** Otoño 2025  
 **Herramienta Base:** [Sherlock Project](https://github.com/sherlock-project/sherlock)
+<img width="1492" height="1010" alt="{4C6C9476-06D0-44C0-A370-CD8AE6BDFA11}" src="https://github.com/user-attachments/assets/2f643204-d0dd-42f6-aff0-6594cbd66956" />
 
 ---
 
